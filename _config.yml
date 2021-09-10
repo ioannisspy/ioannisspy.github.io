@@ -84,17 +84,17 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor of Finance"
   location         : "Washington, D.C."
-  employer         : "American University, Kogod School of Business"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Kogod School of Business"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "academicpages"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
