@@ -8,12 +8,3 @@ date: 2021-09-1
 location: "Washington, D.C."
 ---
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
