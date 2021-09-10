@@ -11,7 +11,7 @@ title                    : "Ioannis Spyridopoulos"
 title_separator          : "-"
 name                     : &name "Ioannis Spyridopoulos"
 description              : &description "Assistant Professor Department of Finance and Real Estate"
-url                      : the base hostname & protocol for your site e.g. "https://ExamplePage.github.io"
+url                      : https://ExamplePage.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ExamplePage.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
