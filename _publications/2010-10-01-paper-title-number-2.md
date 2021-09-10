@@ -6,7 +6,7 @@ excerpt: 'I investigate whether restrictive loan covenants disrupt or improve fi
 date: 2010-10-01
 venue: "Review of Corporate Finance Studies"
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Review of Corporate Finance Studies</i>. 1(2).'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
