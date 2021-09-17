@@ -11,9 +11,9 @@ title                    : "Ioannis Spyridopoulos"
 title_separator          : "-"
 name                     : &name "Ioannis Spyridopoulos"
 description              : &description "Assistant Professor Department of Finance and Real Estate"
-url                      : https://practicegitforexample.github.io/
+url                      : https://ioannisspy.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "PracticeGitForExample.github.io"
+repository               : "ioannisspy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
