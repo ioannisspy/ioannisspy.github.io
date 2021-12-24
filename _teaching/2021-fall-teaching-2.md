@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Methods in Finance  (FIN 665)"
+title: "Quantitative Methods in Finance I (FIN 665)"
 collection: teaching
 type: "Graduate"
 permalink: /teaching/2021-fall-teaching-2
