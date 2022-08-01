@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "Published and Working Papers"
 permalink: /publications/
 author_profile: false
