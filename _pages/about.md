@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Introduction/Bio"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome to my webpage. 
+
+Welcome to my webpage!
 ====
