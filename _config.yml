@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ioannis Spyridopoulos"
+title                    : "Ioannis Spyridopoulos 2"
 title_separator          : "-"
-name                     : &name "Ioannis Spyridopoulos 2"
+name                     : &name "Ioannis Spyridopoulos"
 description              : &description "Assistant Professor Department of Finance and Real Estate"
 url                      : https://ioannisspy.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
