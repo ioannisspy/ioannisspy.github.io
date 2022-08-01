@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ioannis Spyridopoulos"
 title_separator          : "-"
-name                     : &name "Ioannis Spyridopoulos"
+name                     : &name "Ioannis Spyridopoulos 3"
 description              : &description "Assistant Professor Department of Finance and Real Estate"
 url                      : https://ioannisspy.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
