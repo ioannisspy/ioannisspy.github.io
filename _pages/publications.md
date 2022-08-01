@@ -20,7 +20,7 @@ author_profile: true
 <!-- I investigate whether restrictive loan covenants disrupt or improve firms’ operating performance. Using an instrumental variables approach to address the endogenous relationship between covenant strictness and firms’ efficiency, I find that stricter loan covenants lead to an increase in profitability and firm value even when firms do not violate a covenant. Stricter covenants improve performance only in firms with managerial agency conflicts: those without large shareholder ownership, facing softer competition in their product market, or with weaker shareholder rights. The evidence suggests that by designing stringent contracts ex ante, creditors create positive externalities in poorly governed firms through managerial incentives. -->
 
 - *Review of Corporate Finance Studies (2020)*
-- Society for Financial Studies Rising Scholar Award (2021)
+- Rising Scholar Award, Society for Financial Studies (2021)
 
 
 
