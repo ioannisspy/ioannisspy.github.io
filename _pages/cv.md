@@ -3,11 +3,13 @@ layout: archive
 title: ""
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+# redirect_from:
+  # - /resume
 ---
 
-{% include base_path %}
+[Link to CV](https://www.dropbox.com/s/94cb4al08wr2qa4/CV_Ioannis_Spyridopoulos.pdf?dl=0)
+
+<!-- {% include base_path %}
 
 
 Academic Employment
@@ -75,3 +77,4 @@ Scholarships, Honors, and Awards
 ====
 Rising Scholar Award, SFS, Review of Corporate Finance Studies 2021 Kogod, Outstanding Teaching Award 2017, 2018, 2019 Rice University Doctoral Fellowship 2012-2017 American Finance Association (AFA), Doctoral Travel Award Jan 2016 Duke Economics Award for Leadership and Academic Excellence May 2011 Gerondelis and Karelias Foundation Scholarship 2010-2011 Fulbright Scholarship 2009-2010
 
+ -->
