@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Published and Working Papers"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: false
 ---
 
@@ -18,7 +18,7 @@ author_profile: false
   - Rising Scholar Award, Society for Financial Studies (2021)
 
 
-## Working papers 
+## Working papers
 
 ### [Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595) (with Nikolaos Artavanis)
 
