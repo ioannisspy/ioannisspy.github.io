@@ -2,7 +2,7 @@
 title: "Business Finance (FIN 365)"
 collection: teaching
 type: "Undergraduate"
-permalink: /teaching/2019-fall-teaching-1
+permalink: /teaching2/2019-fall-teaching-1
 venue: "American University, Kogod School of Business"
 date: 2019-08-01
 location: "Washington, D.C."
