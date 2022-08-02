@@ -86,9 +86,9 @@ author:
   location         : "American University"
   employer         : "Kogod School of Business"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=R_3puOYAAAAJ&hl=en"
   email            :
-  researchgate     : 
+  researchgate     : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2116629"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "ioannisspy"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  # github           : "ioannisspy"
 
 # Reading Files
 include:
