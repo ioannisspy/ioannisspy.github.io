@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 # redirect_from:
   # - /resume
----
+--- 
 
 ## CV
 - [Link to CV](https://www.dropbox.com/s/94cb4al08wr2qa4/CV_Ioannis_Spyridopoulos.pdf?dl=0)
