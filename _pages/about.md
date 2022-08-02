@@ -8,18 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome to my webpage!
-____________
+### Welcome!
 
-### Assistant Professor of Finance, Kogod School of Business, American University
-
-My research focuses on capital market access and how it affects firms and people. I love working with data that help me improve my priors, and bugging my students about the importance of learning finance. Feel free to contact me any time to chat!  <br />
+<!-- ### Assistant Professor of Finance, Kogod School of Business, American University -->
+I am an Assistant Professor of Finance at the Kogod School of Business. My research focuses on capital market access and how it affects firms and people. I love working with data that help me improve my priors, and bugging my students about the importance of learning finance. Feel free to contact me any time to chat!  <br />
 
 <br />
 <br />
-<br />
-
-
 
 
 _____________
