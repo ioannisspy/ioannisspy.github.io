@@ -25,7 +25,7 @@ author_profile: true
 
 - [**Loan Syndication Networks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980) *(with J. Harris and M. Zekhnini)*
 
-  - Semifinalist for best paper award in Financial Institutions at the 2019 Financial Management Association.
+  - *Semifinalist for best paper award in Financial Institutions at the 2019 Financial Management Association*
 <br />
 
 - [**The Epidemiology of Financial Constraints**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480) *(with W. Grieser and M. Zekhnini)*
