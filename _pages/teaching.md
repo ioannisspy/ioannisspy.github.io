@@ -5,9 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
-
-### American University, Kogod School of Business
+## American University, Kogod School of Business
 
 - Quantitative Methods in Finance I (Graduate) 2021, 2022
 
@@ -16,5 +14,5 @@ author_profile: true
 - **Outstanding Teaching Award: 2017, 2018, 2019**
 
 
-### Rice University, Jones School of Business
+## Rice University, Jones School of Business
 - Financial Management (Undergraduate)  2017
