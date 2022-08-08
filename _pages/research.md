@@ -38,7 +38,7 @@ author_profile: true
 <br />
 
 - **Is Simpler Always Better? Accounting Reporting Complexity and Bank Loans Contracting**
-*(with Shuai (Mark) Ma)*
+*(with S. Ma)*
 <br />
 
 - **Creditor Rights and Debt Structure in the Zone of Insolvency**
