@@ -9,13 +9,13 @@ author_profile: true
 
 ---
 - [**Local Economic Spillover Effects of Stock Market Listings**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2695464){:target="\_blank"} *(with A. Butler and L. Fauver)*
-  - ***Journal of Financial and Quantitative Analysis (2019)***
+  - *Journal of Financial and Quantitative Analysis (2019)*
   - *Best Paper in Corporate Finance (Midwest Finance Association 2018)*
   - *Best Paper in Investments (Eastern Finance Association 2018)*
 <br />
 
 - [**Tough Love: The Effects of Debt Contract Design on Firms' Performance**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2551333){:target="\_blank"}
-  - ***Review of Corporate Finance Studies (2020)***
+  - *Review of Corporate Finance Studies (2020)*
   - *Rising Scholar Award, Society for Financial Studies (2021)*
 
 
