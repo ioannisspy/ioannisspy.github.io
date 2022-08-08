@@ -14,6 +14,7 @@ author_profile: true
   - Best Paper in Corporate Finance (Midwest Finance Association 2018)
   - Best Paper in Investments (Eastern Finance Association 2018)
 
+<br />
 * [Tough Love: The Effects of Debt Contract Design on Firms' Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2551333)
   - *Review of Corporate Finance Studies (2020)*
   - Rising Scholar Award, Society for Financial Studies (2021)
@@ -22,19 +23,24 @@ author_profile: true
 ## Working papers
 
 - [**Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595) *(with N. Artavanis)*
-
+<br />
 - [**Loan Syndication Networks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980) *(with J. Harris and M. Zekhnini)*
 
   - Semifinalist for best paper award in Financial Institutions at the 2019 Financial Management Association.
+<br />
 
 - [**The Epidemiology of Financial Constraints**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480) *(with W. Grieser and M. Zekhnini)*
+<br />
 
 - [**Agglomeration, Knowledge Spillovers, and Corporate Investment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2851588) *(with W. Grieser, G. Maturana, and S. Truffa)*
+<br />
 
 - **Financial Breakups** *(with A. Butler, Y. Telez, and B. Xu)*
+<br />
 
 - **Is Simpler Always Better? Accounting Reporting Complexity and Bank Loans Contracting**
 *(with Shuai (Mark) Ma)*
+<br />
 
 - **Creditor Rights and Debt Structure in the Zone of Insolvency**
 
