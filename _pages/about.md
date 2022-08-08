@@ -15,9 +15,9 @@ I am an Assistant Professor of Finance at the Kogod School of Business. My resea
 <br />
 <br />
 <br />
-_____________
-### Contact
-> 4400 Massachusetts Ave NW, <br />
-> Washington, DC 20016 <br />
-> Office: 3201 New Mexico (Office \# 329) <br />
-> Email: ispyrido(at)american.edu 
+
+#### Contact
+  4400 Massachusetts Ave NW, <br />
+  Washington, DC 20016 <br />
+  Office: 3201 New Mexico (Office \# 329) <br />
+  Email: ispyrido(at)american.edu 
