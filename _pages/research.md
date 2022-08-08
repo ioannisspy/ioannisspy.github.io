@@ -5,10 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-# Published Papers
+## Published Papers
 
 ---
-### [Local Economic Spillover Effects of Stock Market Listings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2695464) *(with A. Butler and L. Fauver)*
+### [Local Economic Spillover Effects of Stock Market Listings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2695464) 
+*(with A. Butler and L. Fauver)*
   - *Journal of Financial and Quantitative Analysis (2019)*
   - Best Paper in Corporate Finance (Midwest Finance Association 2018)
   - Best Paper in Investments (Eastern Finance Association 2018)
@@ -23,17 +24,22 @@ author_profile: true
 ### [Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595) 
 *(with Nikolaos Artavanis)*
 
-### [Loan Syndication Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980) (with Jeffrey Harris and Morad Zekhnini)
+### [Loan Syndication Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980) 
+*(with J. Harris and M. Zekhnini)*
 
   - Semifinalist for best paper award in Financial Institutions at the 2019 Financial Management Association.
 
-### [The Epidemiology of Financial Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480) (with William Grieser and Morad Zekhnini)
+### [The Epidemiology of Financial Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480) 
+*(with W. Grieser and M. Zekhnini)*
 
-### [Agglomeration, Knowledge Spillovers, and Corporate Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2851588) (with William Grieser, Gonzalo Maturana, and Santiago Truffa)
+### [Agglomeration, Knowledge Spillovers, and Corporate Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2851588) 
+*(with W. Grieser, G. Maturana, and S. Truffa)*
 
-### Financial Breakups (with Alexander Butler, Yessenia Telez, and Billy Xu)
+### Financial Breakups 
+*(with A. Butler, Y. Telez, and B. Xu)*
 
-### Is Simpler Always Better? Accounting Reporting Complexity and Bank Loans Contracting (with Shuai (Mark) Ma)
+### Is Simpler Always Better? Accounting Reporting Complexity and Bank Loans Contracting 
+*(with Shuai (Mark) Ma)*
 
 ### Creditor Rights and Debt Structure in the Zone of Insolvency
 
