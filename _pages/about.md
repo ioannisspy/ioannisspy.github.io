@@ -10,13 +10,11 @@ redirect_from:
 
 ## Welcome!
 
-<!-- ### Assistant Professor of Finance, Kogod School of Business, American University -->
-I am an Assistant Professor of Finance at the Kogod School of Business. My research focuses on capital market access and how it affects firms and people. I love working with data that help me improve my priors, and bugging my students about the importance of learning finance. Feel free to contact me any time to chat!  <br />
+I am an Assistant Professor of Finance at the Kogod School of Business. My research focuses on the implications of capital markets for firms and households. I love using data to evaluate questions that change or improve my priors, and transforming scientific work into classroom practice. If you want to chat, feel free to contact me!  
 
 <br />
 <br />
-
-
+<br />
 _____________
 ### Contact
 > 4400 Massachusetts Ave NW, <br />
