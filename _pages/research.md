@@ -8,7 +8,8 @@ author_profile: true
 ## Published Papers
 
 ---
-### [Local Economic Spillover Effects of Stock Market Listings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2695464) (with Alexander Butler and Larry Fauver)
+### [Local Economic Spillover Effects of Stock Market Listings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2695464) 
+*(with Alexander Butler and Larry Fauver)*
   - *Journal of Financial and Quantitative Analysis (2019)*
   - Best Paper in Corporate Finance (Midwest Finance Association 2018)
   - Best Paper in Investments (Eastern Finance Association 2018)
@@ -20,7 +21,8 @@ author_profile: true
 
 ## Working papers
 
-### [Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595) (with Nikolaos Artavanis)
+### [Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595) 
+*(with Nikolaos Artavanis)*
 
 ### [Loan Syndication Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980) (with Jeffrey Harris and Morad Zekhnini)
 
