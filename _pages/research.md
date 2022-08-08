@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Published Papers
+# Published Papers
 
 ---
 ### [Local Economic Spillover Effects of Stock Market Listings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2695464) *(with A. Butler and L. Fauver)*
@@ -18,7 +18,7 @@ author_profile: true
   - Rising Scholar Award, Society for Financial Studies (2021)
 
 
-## Working papers
+# Working papers
 
 ### [Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595) 
 *(with Nikolaos Artavanis)*
