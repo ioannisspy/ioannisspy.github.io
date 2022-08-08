@@ -10,7 +10,6 @@ redirect_from:
 
 # Welcome!
 
-<br />
 
 I am an Assistant Professor of Finance at the Kogod School of Business. My research focuses on the implications of capital market access for firms and households. I love using data to evaluate questions that change or improve my priors and transforming scientific work into classroom practice. If you want to chat, feel free to contact me!   
 
@@ -22,10 +21,9 @@ I am an Assistant Professor of Finance at the Kogod School of Business. My resea
 <br />
 
 ### Contact
+<span font-size:2em;> 
   4400 Massachusetts Ave NW, <br />
   Washington, DC 20016 <br />
   Office: 3201 New Mexico (Office \# 329) <br />
   Email: ispyrido(at)american.edu 
-
-<!-- <span style="font-family:sans-serif; font-size:em;"> 
-</span> -->
+</span>
