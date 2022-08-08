@@ -15,6 +15,8 @@ I am an Assistant Professor of Finance at the Kogod School of Business. My resea
 <br />
 <br />
 <br />
+<br />
+<br />
 
 ### Contact
 <span style="font-family:cardinals; font-size:1em;"> 
