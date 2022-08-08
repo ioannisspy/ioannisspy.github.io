@@ -21,7 +21,7 @@ I am an Assistant Professor of Finance at the Kogod School of Business. My resea
 <br />
 
 ### Contact
-<span style="font-size:0.9em;"> 
+<span style="font-size:0.8em;"> 
   4400 Massachusetts Ave NW, <br />
   Washington, DC 20016 <br />
   Office: 3201 New Mexico (Office \# 329) <br />
