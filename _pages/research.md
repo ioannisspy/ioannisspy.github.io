@@ -28,7 +28,7 @@ author_profile: true
 
 ### [The Epidemiology of Financial Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480) (with William Grieser and Morad Zekhnini)
 
-### Agglomeration, Knowledge Spillovers, and Corporate Investment (with William Grieser, Gonzalo Maturana, and Santiago Truffa)
+### [Agglomeration, Knowledge Spillovers, and Corporate Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2851588) (with William Grieser, Gonzalo Maturana, and Santiago Truffa)
 
 ### Financial Breakups (with Alexander Butler, Yessenia Telez, and Billy Xu)
 
