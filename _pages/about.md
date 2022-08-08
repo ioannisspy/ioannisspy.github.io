@@ -10,6 +10,8 @@ redirect_from:
 
 # Welcome!
 
+<br />
+
 I am an Assistant Professor of Finance at the Kogod School of Business. My research focuses on the implications of capital market access for firms and households. I love using data to evaluate questions that change or improve my priors and transforming scientific work into classroom practice. If you want to chat, feel free to contact me!   
 
 <br />
