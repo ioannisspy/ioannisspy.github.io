@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Published Papers 
+## Published Papers
 
 ---
 - [**Local Economic Spillover Effects of Stock Market Listings**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2695464){:target="\_blank"} *(with A. Butler and L. Fauver)*
@@ -21,18 +21,18 @@ author_profile: true
 
 
 ## Working papers
-
-- [**Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595){:target="\_blank"} *(with N. Artavanis)*
-
-- [**Loan Syndication Networks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="\_blank"} *(with J. Harris and M. Zekhnini)*
-
-  - *Semifinalist for best paper award in Financial Institutions at the 2019 Financial Management Association*
-<br />
-
 - [**The Epidemiology of Financial Constraints**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480){:target="\_blank"} *(with W. Grieser and M. Zekhnini)*
 <br />
 
 - [**Agglomeration, Knowledge Spillovers, and Corporate Investment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2851588){:target="\_blank"} *(with W. Grieser, G. Maturana, and S. Truffa)*
+  - *Conditionally accepted at Journal of Corporate Finance*
+<br />
+
+- [**Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595){:target="\_blank"} *(with N. Artavanis)*
+<br />
+
+- [**Loan Syndication Networks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="\_blank"} *(with J. Harris and M. Zekhnini)*
+  - *Semifinalist for best paper award in Financial Institutions at the 2019 Financial Management Association*
 <br />
 
 - **Financial Breakups** *(with A. Butler, Y. Telez, and B. Xu)*
