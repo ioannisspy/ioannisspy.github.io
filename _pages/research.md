@@ -12,7 +12,6 @@ author_profile: true
   - *Journal of Financial and Quantitative Analysis (2019)*
   - *Best Paper in Corporate Finance (Midwest Finance Association 2018)*
   - *Best Paper in Investments (Eastern Finance Association 2018)*
-
 <br />
 
 - [**Tough Love: The Effects of Debt Contract Design on Firms' Performance**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2551333){:target="\_blank"}
