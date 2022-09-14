@@ -11,7 +11,7 @@ author_profile: true
 
 - Business Finance (Undergraduate)
 
-	- *Outstanding Teaching Award: 2017, 2018, 2019*
+	- *Outstanding Teaching Award: 2017, 2018, 2019, 2021*
 
 
 ## Rice University, Jones School of Business
