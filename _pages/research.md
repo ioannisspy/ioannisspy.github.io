@@ -16,15 +16,15 @@ author_profile: true
 - [**Tough Love: The Effects of Debt Contract Design on Firms' Performance**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2551333){:target="\_blank"}
   - *Review of Corporate Finance Studies (2020)*
   - *Rising Scholar Award, Society for Financial Studies (2021)*
+<br />
 
+- [**Agglomeration, Knowledge Spillovers, and Corporate Investment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2851588){:target="\_blank"} *(with W. Grieser, G. Maturana, and S. Truffa)*
+  - *Journal of Corporate Finance (forthcoming)*
 
 ## Working papers
 - [**The Epidemiology of Financial Constraints**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480){:target="\_blank"} *(with W. Grieser and M. Zekhnini)*
 <br />
 
-- [**Agglomeration, Knowledge Spillovers, and Corporate Investment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2851588){:target="\_blank"} *(with W. Grieser, G. Maturana, and S. Truffa)*
-  - *Conditionally accepted at Journal of Corporate Finance*
-<br />
 
 - [**Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595){:target="\_blank"} *(with N. Artavanis)*
 <br />
