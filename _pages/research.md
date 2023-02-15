@@ -31,10 +31,19 @@ author_profile: true
 
 
 - [**Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595){:target="\_blank"} *(with N. Artavanis)*
+  - *Revise and Resubmit (Journal of Financial Intermediation)*
 <br />
 
-- [**Loan Syndication Networks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="\_blank"} *(with J. Harris and M. Zekhnini)*
+<!-- - [**Loan Syndication Networks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="\_blank"} *(with J. Harris and M. Zekhnini)* -->
+- [**Modeling the Role of Networks in Loan Syndicate Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="\_blank"} *(with J. Harris and M. Zekhnini)*
   - *Semifinalist for best paper award in Financial Institutions at the 2019 Financial Management Association*
+<br />
+
+- **Comparing Capital Allocation Efficiency in Public and Private Equity Markets** *(with A. Sanati)*
+<br />
+
+
+- **The Effect of Bank Mergers on Consumer Financing** *(with C. Brunetti and J. Harris)*
 <br />
 
 - **Financial Breakups** *(with A. Butler, Y. Telez, and B. Xu)*
