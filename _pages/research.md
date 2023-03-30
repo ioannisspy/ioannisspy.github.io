@@ -39,7 +39,7 @@ author_profile: true
   - *Semifinalist for best paper award in Financial Institutions at the 2019 Financial Management Association*
 <br />
 
-- **Comparing Capital Allocation Efficiency in Public and Private Equity Markets** *(with A. Sanati)*
+- [**Comparing Capital Allocation Efficiency in Public and Private Equity Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403578){:target="\_blank"} *(with A. Sanati)*
 <br />
 
 
