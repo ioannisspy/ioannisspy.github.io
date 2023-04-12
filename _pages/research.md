@@ -25,7 +25,7 @@ author_profile: true
 
 
 ## Working papers
-- [**The Epidemiology of Financial Constraints**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480){:target="\_blank"} *(with W. Grieser and M. Zekhnini)*
+- [**The Epidemiology of Corporate Investment and Financial Constraints in Production Networks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480){:target="\_blank"} *(with W. Grieser and M. Zekhnini)*
   - *Best paper award in corporate finance at the 2022 Southern Finance Association*
 <br />
 
