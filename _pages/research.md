@@ -42,11 +42,10 @@ author_profile: true
 - [**Comparing Capital Allocation Efficiency in Public and Private Equity Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403578){:target="\_blank"} *(with A. Sanati)*
 <br />
 
-
-- **The Effect of Bank Mergers on Consumer Financing** *(with C. Brunetti and J. Harris)*
+- [**Financial Breakups**](https://papers.ssrn.com/abstract=4497450){:target="\_blank"} *(with A. Butler, Y. Telez, and B. Xu)*
 <br />
 
-- **Financial Breakups** *(with A. Butler, Y. Telez, and B. Xu)*
+- **The Effect of Bank Mergers on Consumer Financing** *(with C. Brunetti and J. Harris)*
 <br />
 
 - **Is Simpler Always Better? Accounting Reporting Complexity and Bank Loans Contracting**
