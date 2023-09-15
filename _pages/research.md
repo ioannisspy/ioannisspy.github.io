@@ -22,7 +22,7 @@ author_profile: true
   - *Journal of Corporate Finance (2022)*
 
 - [**Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595){:target="\_blank"} *(with N. Artavanis)*
-  - *Journal of Financial Intermediation, Accepted*
+  - *Journal of Financial Intermediation (2023), Accepted*
 <br />
 
 
