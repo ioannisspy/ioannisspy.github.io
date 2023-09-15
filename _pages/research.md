@@ -22,16 +22,14 @@ author_profile: true
   - *Journal of Corporate Finance (2022)*
 
 - [**Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595){:target="\_blank"} *(with N. Artavanis)*
-  - *Accepted (Journal of Financial Intermediation)*
+  - *Journal of Financial Intermediation, Accepted*
 <br />
 
 
 ## Working papers
-- [**The Epidemiology of Corporate Investment and Financial Constraints in Production Networks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480){:target="\_blank"} *(with W. Grieser and M. Zekhnini)*
+- [**The Epidemiology of Financial Constraints and Corporate Investment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480){:target="\_blank"} *(with W. Grieser and M. Zekhnini)*
   - *Best paper award in corporate finance at the 2022 Southern Finance Association*
 <br />
-
-
 
 
 <!-- - [**Loan Syndication Networks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="\_blank"} *(with J. Harris and M. Zekhnini)* -->
@@ -45,7 +43,7 @@ author_profile: true
 - [**Financial Breakups**](https://papers.ssrn.com/abstract=4497450){:target="\_blank"} *(with A. Butler, Y. Telez, and B. Xu)*
 <br />
 
-- **The Effect of Bank Mergers on Consumer Financing** *(with C. Brunetti and J. Harris)*
+- **Are Bank Mergers Harmful for Households?** *(with C. Brunetti and J. Harris)*
 <br />
 
 - **Is Simpler Always Better? Accounting Reporting Complexity and Bank Loans Contracting**
