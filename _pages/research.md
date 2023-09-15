@@ -21,7 +21,9 @@ author_profile: true
 - [**Agglomeration, Knowledge Spillovers, and Corporate Investment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2851588){:target="\_blank"} *(with W. Grieser, G. Maturana, and S. Truffa)*
   - *Journal of Corporate Finance (2022)*
 
-
+- [**Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595){:target="\_blank"} *(with N. Artavanis)*
+  - *Accepted (Journal of Financial Intermediation)*
+<br />
 
 
 ## Working papers
@@ -30,9 +32,7 @@ author_profile: true
 <br />
 
 
-- [**Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595){:target="\_blank"} *(with N. Artavanis)*
-  - *Revise and Resubmit (Journal of Financial Intermediation)*
-<br />
+
 
 <!-- - [**Loan Syndication Networks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="\_blank"} *(with J. Harris and M. Zekhnini)* -->
 - [**Modeling the Role of Networks in Loan Syndicate Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="\_blank"} *(with J. Harris and M. Zekhnini)*
