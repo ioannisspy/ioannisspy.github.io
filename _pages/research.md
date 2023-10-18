@@ -43,7 +43,7 @@ author_profile: true
 - [**Financial Breakups**](https://papers.ssrn.com/abstract=4497450){:target="\_blank"} *(with A. Butler, Y. Telez, and B. Xu)*
 <br />
 
-- **Are Bank Mergers Harmful for Households?** *(with C. Brunetti and J. Harris)*
+- **Does Banking Consolidation Harm Households?** *(with C. Brunetti and J. Harris)*
 <br />
 
 - **Is Simpler Always Better? Accounting Reporting Complexity and Bank Loans Contracting**
