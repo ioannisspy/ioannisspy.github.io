@@ -34,6 +34,7 @@ author_profile: true
 
 <!-- - [**Loan Syndication Networks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="\_blank"} *(with J. Harris and M. Zekhnini)* -->
 - [**Modeling the Role of Networks in Loan Syndicate Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="\_blank"} *(with J. Harris and M. Zekhnini)*
+  - *(Reject \& Resubmit, Management Science)*
   - *Semifinalist for best paper award in Financial Institutions at the 2019 Financial Management Association*
 <br />
 
