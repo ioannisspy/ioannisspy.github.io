@@ -11,7 +11,9 @@ redirect_from:
 # Welcome!
 
 
-I am an Assistant Professor of Finance at the Kogod School of Business. My research focuses on the implications of capital market access for firms and households. I love using data to evaluate questions that change or improve my priors and transforming scientific work into classroom practice. If you want to chat, feel free to contact me!   
+I am an Assistant Professor of Finance at the Kogod School of Business. My research focuses on how access to capital markets affects firms and households. I love playing devil's advocate, and finding simple ways to explain complicated stuff.
+If you want to chat, feel free to contact me!   
+<!-- I love using data to evaluate questions that change or improve my priors and transforming scientific work into classroom practice.  -->
 
 <br />
 <br />
