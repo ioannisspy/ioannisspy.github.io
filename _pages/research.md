@@ -25,12 +25,12 @@ author_profile: true
   - *Journal of Financial Intermediation (2023)*
 <br />
 
-
-## Working papers
 - [**The Epidemiology of Financial Constraints and Corporate Investment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480){:target="\_blank"} *(with W. Grieser and M. Zekhnini)*
-  - *Revise and Resubmit, Journal of Financial and Quantitative Analysis*
+  - *Conditionally accepted, Journal of Financial and Quantitative Analysis*
   - *Best paper award in corporate finance at the 2022 Southern Finance Association*
 <br />
+
+## Working papers
 
 
 <!-- - [**Loan Syndication Networks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="\_blank"} *(with J. Harris and M. Zekhnini)* -->
