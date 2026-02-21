@@ -39,6 +39,7 @@ author_profile: true
 ## Working papers
 
 - [**Comparing Capital Allocation Efficiency in Public and Private Equity Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403578){:target="\_blank"} *(with A. Sanati)*
+  - *Revise and Resubmit, Journal of Financial and Quantitative Analysis*
 <br />
 
 - [**Till Debt Do Us Part? The Effects of Debt Relief on Household Stability**](https://papers.ssrn.com/abstract=4497450){:target="\_blank"} *(with A. Butler, Y. Telez, and B. Xu)*
