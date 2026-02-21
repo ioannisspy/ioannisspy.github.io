@@ -8,12 +8,12 @@ author_profile: true
 ## Published Papers
 
 - [**The Role of Networks in Loan Syndicate Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="\_blank"} *(with J. Harris, M. Zekhnini, and C. Brunetti)*
-  - *Forthcoming, Management Science*
+  - *Management Science (2026)*
   - *Semifinalist for best paper award in Financial Institutions at the 2019 FMA*
 <br />
 
 - [**The Epidemiology of Financial Constraints and Corporate Investment**](https://doi.org/10.1017/S0022109025000171){:target="\_blank"} *(with W. Grieser and M. Zekhnini)*
-  - *Forthcoming, Journal of Financial and Quantitative Analysis*
+  - *Journal of Financial and Quantitative Analysis (2026)*
   - *Best paper award in corporate finance at the 2022 SFA*
 <br />
 
