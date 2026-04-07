@@ -16,10 +16,11 @@ If you want to chat, feel free to contact me!
 <!-- I love using data to evaluate questions that change or improve my priors and transforming scientific work into classroom practice.  -->
 
 <br />
-<br />
-<br />
-<br />
-<br />
+
+<div style="text-align: center; margin: 1.5em 0;">
+  <img src="/images/pireas%20mini%20soccer.png" alt="Mini soccer in Piraeus" style="max-width: 80%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" />
+</div>
+
 <br />
 
 ### Contact
