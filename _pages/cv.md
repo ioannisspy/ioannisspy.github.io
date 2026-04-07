@@ -57,7 +57,7 @@ author_profile: true
   - *Semifinalist for best paper award in Financial Institutions at the 2019 Financial Management Association*
 
 - [**The Epidemiology of Financial Constraints and Corporate Investment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480){:target="_blank"} (with W. Grieser and M. Zekhnini)
-  - *Accepted, Journal of Financial and Quantitative Analysis (2025)*
+  - *Journal of Financial and Quantitative Analysis (2026)*
   - *Best paper award at the 2022 Southern Finance Association*
 
 ---
@@ -87,12 +87,16 @@ author_profile: true
 
 ## Teaching
 
-- **American University - Kogod School of Business** <span style="float:right;">*Outstanding Teaching Award: 2017, 2018, 2019, 2021, 2023*</span>
-  - Business Finance (SET: 4.9/5)
-  - Quantitative Methods in Finance (SET: 4.95/5)
+- **American University - Kogod School of Business**
+  - **Courses**
+    - Business Finance (Student evaluation: 4.9/5)
+    - Quantitative Methods in Finance (Student evaluation: 4.95/5)
+  - **Teaching Awards**
+    - *Graduate Professor of the Year: 2025*
+    - *Outstanding Teaching Award: 2017, 2018, 2019, 2021, 2023, 2024*
 
 - **Rice University - Jones School of Business**
-  - Financial Management (SET: 4.95/5)
+  - Financial Management (Student evaluation: 4.95/5)
 
 ---
 
@@ -120,7 +124,8 @@ Review of Financial Studies, Management Science, Real Estate Economics, Review o
 ## Scholarships, Honors, and Awards
 
 - Rising Scholar Award, SFS, Review of Corporate Finance Studies <span style="float:right;">2021</span>
-- Kogod, Outstanding Teaching Award <span style="float:right;">2017, 2018, 2019, 2021</span>
+- Kogod, Graduate Professor of the Year <span style="float:right;">2025</span>
+- Kogod, Outstanding Teaching Award <span style="float:right;">2017, 2018, 2019, 2021, 2023, 2024</span>
 - Rice University Doctoral Fellowship <span style="float:right;">2012-2017</span>
 - American Finance Association (AFA), Doctoral Travel Award <span style="float:right;">Jan 2016</span>
 - Duke Economics Award for Leadership and Academic Excellence <span style="float:right;">May 2011</span>

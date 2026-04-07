@@ -53,7 +53,11 @@ author_profile: true
 
 - **Creditor Rights and Debt Structure in the Zone of Insolvency**
 
+## Work In Progress
 
+- **The Impact of Data Processing and AI Adoption on Firms' Productivity and Financing** *(with A. Sanati)*
+
+- **Differences in Differences with Spillovers** *(with W. Grieser, J. LeSage, and M. Zekhnini)*
 
 
 
