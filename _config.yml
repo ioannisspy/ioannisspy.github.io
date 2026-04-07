@@ -56,7 +56,7 @@ analytics:
 # Site Author
 author:
   name             : "Ioannis Spyridopoulos"
-  avatar           : "profile2.png"
+  avatar           : "https://ioannisspy.github.io/images/profile2.png"
   bio              : "Assistant Professor of Finance"
   location         : "American University"
   employer         : "Kogod School of Business"

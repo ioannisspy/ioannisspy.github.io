@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## CV
-- [Link to CV](https://www.dropbox.com/scl/fi/0j1q6gvw9762bxxw9ne4f/CV_Ioannis_Spyridopoulos.pdf?rlkey=5zxsx627rbx1quhswg2oxu1co&dl=0){:target="_blank"}
+<a href="https://www.dropbox.com/scl/fi/0j1q6gvw9762bxxw9ne4f/CV_Ioannis_Spyridopoulos.pdf?rlkey=5zxsx627rbx1quhswg2oxu1co&dl=0" target="_blank">Link to CV (PDF)</a>
 
 <div style="text-align: center; margin-bottom: 1em;">
   <h2 style="margin-bottom: 0.3em;">Ioannis Spyridopoulos</h2>
