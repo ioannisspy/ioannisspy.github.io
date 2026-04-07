@@ -3,79 +3,123 @@ layout: archive
 title: ""
 permalink: /cv/
 author_profile: true
-# redirect_from:
-  # - /resume
---- 
+---
 
-## CV
-- [Link to CV](https://www.dropbox.com/scl/fi/0j1q6gvw9762bxxw9ne4f/CV_Ioannis_Spyridopoulos.pdf?rlkey=5zxsx627rbx1quhswg2oxu1co&dl=0){:target="\_blank"}
+<div style="text-align: center; margin-bottom: 1em;">
+  <h2 style="margin-bottom: 0.3em;">Ioannis Spyridopoulos</h2>
+  <a href="mailto:ispyrido@american.edu">ispyrido@american.edu</a><br>
+  <a href="https://ioannisspy.github.io/">https://ioannisspy.github.io/</a><br>
+  American University, Kogod School of Business, Washington, DC 20016<br>
+  phone: (202) 885-1117
+</div>
 
-<!-- {% include base_path %}
+---
 
+## Academic Employment
 
-Academic Employment
-=====
-  Assistant Professor of Finance - American University, Kogod School of Business 2017 - today Education 
-  Ph.D. in Finance, Rice University - Jones School of Business 2012-2017 Visiting Finance Ph.D. student, University of Chicago - Booth School of Business 2015-2016 M.A. in Business
-  Administration, Rice University - Jones School of Business 2017 M.A. in Economics, Duke University 2011 B.A. in Financial Management, University of Piraeus 2008 
+- Visiting Research Scholar - Federal Reserve Board <span style="float:right;">2022 - today</span>
+- Assistant Professor of Finance - American University, Kogod School of Business <span style="float:right;">2017 - today</span>
 
-Research and Teaching Fields 
-=====
-  Empirical corporate finance, corporate governance, financial contracting, financial intermediation 
+---
 
-Published Research 
-====
-  • Local Economic Spillover Effects of Stock Market Listings (with A. Butler and L. Fauver), - Journal of Financial and Quantitative Analysis (2019) 
-  - Best Paper in Corporate Finance (Midwest Finance Association 2018) 
-  - Best Paper in Investments (Eastern Finance Association 2018) 
-  • Tough Love: The Effects of Debt Contract Design on Firm Performance 
-  - Review of Corporate Finance Studies (2020) 
+## Education
 
-Working Papers 
-====
-  • Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium (with Nikolaos Artavanis) 
-  • Loan Syndication Networks (with Jeffrey Harris and Edwin Hu) 
-  - Semifinalist for best paper award in Financial Institutions at the 2019 Financial Management Association. • The Epidemiology of Financial Constraints (with William Grieser and Morad Zekhnini) 
-  • Is Simpler Always Better? Accounting Reporting Complexity and Bank Loans Contracting (with Shuai (Mark) Ma) 
-  • Creditor Rights and Debt Structure in the Zone of Insolvency
-  
-In Progress 
-====
-  • The Financial Consequences of Banking Consolidation for Households (with Celso Brunetti, Jeffrey Harris, and Erik Mayer) 
-  • Data Processing, Information Asymmetry, and Financing Decisions (with Ali Sanati) • Financial Break-ups (with Alexander Butler, Yessenia Tellez, and Billy Xu) 
-  
-Teaching 
-====
-  American University - Kogod School of Business 
-  • Business Finance (Kogod Outstanding Teaching Award: 2017, 2018, 2019) • Quantitative Methods in Finance 
-  Rice University - Jones School of Business 
-  • Financial Management 
-  
-Professional Activities 
-====
-Conference Presentations (* by co-authors) 
-  2021: Federal Reserve Board, DC Juniors Finance Conference 
-  2020: Chicago Financial Institutions Conference (cancelled) 
-  2019: American Economic Association, Financial Management Association*, Reserve Bank of India (CAFRAL) 
-  2018: American Real Estate Society*, CELS*, European Finance Association 
-  2017: CEPR European Summer Symposium in Financial Markets*, FMA*, European Financial Manage ment Association* (EFMA), Financial Management Association-Europe* (FMA Europe),
-  Conference on Empirical Legal Studies (CELS)-Cornell University, FRB of Atlanta and Georgia State - Real Estate Fi nance Conference* 
-  2016: Kentucky Finance Conference*, FMA, FMA (doctoral consortium) 
-  2015: Midwest Finance Association (MFA), Eastern Finance Association (EFA), Financial Management Association (FMA) 
-  
-Invited Seminar Presentations 
-====
-University of Oxford (Said Business School), Vanderbilt University (Owen Graduate School of Man agement), University of Nebraska (College of Business), Tulane University (Freeman School of Business), American University (Kogod School of Business), George Washington University, University of Houston (Bauer College of Business), Tilburg University,
-University of Amsterdam, Baylor University (Hankamer School of Business), Texas Tech (Rawls College of Business) 
+- Ph.D. in Finance, Rice University - Jones School of Business <span style="float:right;">2012-2017</span>
+- Visiting Finance Ph.D. student, University of Chicago - Booth School of Business <span style="float:right;">2015-2016</span>
+- M.A. in Business Administration, Rice University - Jones School of Business <span style="float:right;">2017</span>
+- M.A. in Economics, Duke University <span style="float:right;">2011</span>
+- B.A. in Financial Management, University of Piraeus <span style="float:right;">2008</span>
 
-Referee for peer-reviewed Journals: 
-====
-Review of Financial Studies, Management Science, Real Estate Economics, National Science Foundation, Review of Corporate Finance Studies, Journal of Corporate Finance, Journal of Empirical Finance, The Financial Review, The Journal of Financial Research, Israel Science Foundation
-Scholarships, Honors, and Awards 
-Rising Scholar Award, SFS, Review of Corporate Finance Studies 2021 Kogod, Outstanding Teaching Award 2017, 2018, 2019 Rice University Doctoral Fellowship 2012-2017 American Finance Association (AFA), Doctoral Travel Award Jan 2016 Duke Economics Award for Leadership and Academic Excellence May 2011 Gerondelis and Karelias Foundation Scholarship 2010-2011 Fulbright Scholarship 2009-2010
+---
 
-Scholarships, Honors, and Awards 
-====
-Rising Scholar Award, SFS, Review of Corporate Finance Studies 2021 Kogod, Outstanding Teaching Award 2017, 2018, 2019 Rice University Doctoral Fellowship 2012-2017 American Finance Association (AFA), Doctoral Travel Award Jan 2016 Duke Economics Award for Leadership and Academic Excellence May 2011 Gerondelis and Karelias Foundation Scholarship 2010-2011 Fulbright Scholarship 2009-2010
+## Published Research
 
- -->
+- [**Local Economic Spillover Effects of Stock Market Listings**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2695464){:target="_blank"} (with A. Butler and L. Fauver)
+  - *Journal of Financial and Quantitative Analysis (2019)*
+  - *Best Paper in Corporate Finance (Midwest Finance Association)*
+  - *Best Paper in Investments (Eastern Finance Association)*
+
+- [**Tough Love: The Effects of Debt Contract Design on Firm Performance**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2551333){:target="_blank"}
+  - *Review of Corporate Finance Studies (2020)*
+  - *RCFS Rising Scholar Award*
+
+- [**Agglomeration, Knowledge Spillovers, and Corporate Investment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2851588){:target="_blank"} (with W. Grieser, G. Maturana, and S. Truffa)
+  - *Journal of Corporate Finance (2022)*
+
+- [**Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595){:target="_blank"} (with N. Artavanis)
+  - *Journal of Financial Intermediation (2023)*
+
+- [**The Role of Networks in Loan Syndicate Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="_blank"} (with J. Harris, M. Zekhnini, C. Brunetti)
+  - *Management Science (2026)*
+  - *Semifinalist for best paper award in Financial Institutions at the 2019 Financial Management Association*
+
+- [**The Epidemiology of Financial Constraints and Corporate Investment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3904480){:target="_blank"} (with W. Grieser and M. Zekhnini)
+  - *Accepted, Journal of Financial and Quantitative Analysis (2025)*
+  - *Best paper award at the 2022 Southern Finance Association*
+
+---
+
+## Working Papers
+
+- [**Comparing Capital Allocation Efficiency in Public and Private Equity Markets**](https://papers.ssrn.com/abstract=4403578){:target="_blank"} (with A. Sanati)
+  - Revise and Resubmit *Journal of Financial and Quantitative Analysis*
+
+- [**Till Debt Do Us Part? The Effects of Debt Relief on Household Stability**](https://papers.ssrn.com/abstract=4497450){:target="_blank"} (with A. Butler, Y. Telez, and B. Xu)
+
+- Does Banking Consolidation Harm Households? (with C. Brunetti and J. Harris)
+
+- Is Simpler Always Better? Accounting Reporting Complexity and Bank Loans Contracting (with S. (Mark) Ma)
+
+- Creditor Rights and Debt Structure in the Zone of Insolvency
+
+---
+
+## Work In Progress
+
+- The Impact of Data Processing and AI Adoption on Firms' Productivity and Financing (with A. Sanati)
+
+- Differences in Differences with Spillovers (with W. Grieser, J. LeSage, and M. Zekhnini)
+
+---
+
+## Teaching
+
+- **American University - Kogod School of Business** <span style="float:right;">*Outstanding Teaching Award: 2017, 2018, 2019, 2021, 2023*</span>
+  - Business Finance (SET: 4.9/5)
+  - Quantitative Methods in Finance (SET: 4.95/5)
+
+- **Rice University - Jones School of Business**
+  - Financial Management (SET: 4.95/5)
+
+---
+
+## Professional Activities
+
+**Conference Participation (\* presentation by co-authors)**
+
+- **2025:** Columbia Private Equity Research Conference\*, SEC\*, FDIC, European Finance Association (scheduled)
+- **2024:** SFS Calvacade, Financial Intermediation Research Society (FIRS)\*, World Bank\*, IMF\*, Federal Reserve Board, Eastern Finance Association\*, NBER SI\*, Northern Finance Association, University of Tennessee
+- **2023:** Virginia Tech, Bank of Canada, American University, SFA
+- **2022:** MFA, Georgetown University, Western Finance Association (WFA), Finance Organizations and Markets\*, University of Maryland\*, Southern Finance Association (SFA)\*, American Real Estate and Urban Economics Association (AREUEA)
+- **2021:** Federal Reserve Board, DC Juniors Finance Conference
+- **2020:** Chicago Financial Institutions Conference (cancelled)
+- **2019:** American Economic Association (AEA), FMA\*, Reserve Bank of India
+- **2018:** American Real Estate Society, CELS\*, European Finance Association, Atlanta FRB Real Estate conference
+- **2017:** Midwest Finance Association (MFA), CEPR European Summer Symposium in Financial Markets\*, FMA\*, European Financial Management Association\* (EFMA), Financial Management Association-Europe\* (FMA Europe), Conference on Empirical Legal Studies (CELS), FRB of Atlanta and Georgia State - Real Estate Finance Conference\*
+- **2016:** Kentucky Finance Conference\*, Financial Management Association (FMA)
+
+**Referee for peer-reviewed Journals:**
+
+Review of Financial Studies, Management Science, Real Estate Economics, Review of Corporate Finance Studies, Journal of Corporate Finance, Journal of Empirical Finance, Journal of Banking and Finance, The Financial Review, European Economic Review, The Journal of Financial Research, National Science Foundation, Israel Science Foundation
+
+---
+
+## Scholarships, Honors, and Awards
+
+- Rising Scholar Award, SFS, Review of Corporate Finance Studies <span style="float:right;">2021</span>
+- Kogod, Outstanding Teaching Award <span style="float:right;">2017, 2018, 2019, 2021</span>
+- Rice University Doctoral Fellowship <span style="float:right;">2012-2017</span>
+- American Finance Association (AFA), Doctoral Travel Award <span style="float:right;">Jan 2016</span>
+- Duke Economics Award for Leadership and Academic Excellence <span style="float:right;">May 2011</span>
+- Gerondelis and Karelias Foundation Scholarship <span style="float:right;">2010-2011</span>
+- Fulbright Scholarship <span style="float:right;">2009-2010</span>
