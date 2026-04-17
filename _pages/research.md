@@ -45,7 +45,7 @@ author_profile: true
 - [**Till Debt Do Us Part? The Effects of Debt Relief on Household Stability**](https://papers.ssrn.com/abstract=4497450){:target="\_blank"} *(with A. Butler, Y. Telez, and B. Xu)*
 <br />
 
-- **Does Banking Consolidation Harm Households?** *(with C. Brunetti and J. Harris)*
+- [**Does Banking Consolidation Harm Households?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6556342){:target="\_blank"} *(with C. Brunetti and J. Harris)*
 <br />
 
 - [**Is Simpler Always Better? Accounting Reporting Complexity and Bank Loans Contracting**](https://www.dropbox.com/scl/fi/8iqvvc5gyedicj7dwnydo/Is-Simpler-Always-Better.pdf?rlkey=bghsqkmhv0ttvw6ovoioerkvr&dl=0){:target="\_blank"} *(with S. Ma)*
