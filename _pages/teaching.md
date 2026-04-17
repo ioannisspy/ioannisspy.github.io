@@ -7,12 +7,13 @@ author_profile: true
 
 ## American University, Kogod School of Business
 
-- Quantitative Methods in Finance I (Graduate) 
+**Courses**
+- Business Finance (Student evaluation: 4.9/5)
+- Quantitative Methods in Finance (Student evaluation: 4.95/5)
 
-- Business Finance (Undergraduate)
-
-	- *Outstanding Teaching Award: 2017, 2018, 2019, 2021*
-
+**Teaching Awards**
+- *Graduate Professor of the Year: 2025*
+- *Outstanding Teaching Award: 2017, 2018, 2019, 2021, 2023, 2024*
 
 ## Rice University, Jones School of Business
-- Financial Management (Undergraduate)  
+- Financial Management (Student evaluation: 4.95/5)
