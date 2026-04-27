@@ -4,60 +4,19 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+{% assign cv = site.data.cv %}
 
 ## Published Papers
 
-- [**The Role of Networks in Loan Syndicate Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295980){:target="\_blank"} *(with J. Harris, M. Zekhnini, and C. Brunetti)*
-  - *Management Science (2026)*
-  - *Semifinalist for best paper award in Financial Institutions at the 2019 FMA*
-<br />
-
-- [**The Epidemiology of Financial Constraints and Corporate Investment**](https://doi.org/10.1017/S0022109025000171){:target="\_blank"} *(with W. Grieser and M. Zekhnini)*
-  - *Journal of Financial and Quantitative Analysis (2026)*
-  - *Best paper award in corporate finance at the 2022 SFA*
-<br />
-
-- [**Determinants of Strategic Behavior: Evidence from a Foreclosure Moratorium**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2946595){:target="\_blank"} *(with N. Artavanis)*
-  - *Journal of Financial Intermediation (2023)*
-<br />
-
-- [**Agglomeration, Knowledge Spillovers, and Corporate Investment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2851588){:target="\_blank"} *(with W. Grieser, G. Maturana, and S. Truffa)*
-  - *Journal of Corporate Finance (2022)*
-<br />
-
-- [**Tough Love: The Effects of Debt Contract Design on Firms' Performance**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2551333){:target="\_blank"}
-  - *Review of Corporate Finance Studies (2020)*
-  - *Rising Scholar Award, Society for Financial Studies*
-<br />
-
-- [**Local Economic Spillover Effects of Stock Market Listings**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2695464){:target="\_blank"} *(with A. Butler and L. Fauver)*
-  - *Journal of Financial and Quantitative Analysis (2019)*
-  - *Best Paper in Corporate Finance (Midwest Finance Association)*
-  - *Best Paper in Investments (Eastern Finance Association)*
-<br />
+{% include cv_papers.md papers=cv.research.published spacer=true %}
 
 ## Working papers
 
-- [**Comparing Capital Allocation Efficiency in Public and Private Equity Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403578){:target="\_blank"} *(with A. Sanati)*
-  - *Revise and Resubmit, Journal of Financial and Quantitative Analysis*
-<br />
-
-- [**Till Debt Do Us Part? The Effects of Debt Relief on Household Stability**](https://papers.ssrn.com/abstract=4497450){:target="\_blank"} *(with A. Butler, Y. Telez, and B. Xu)*
-<br />
-
-- [**Does Banking Consolidation Harm Households?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6556342){:target="\_blank"} *(with C. Brunetti and J. Harris)*
-<br />
-
-- [**Is Simpler Always Better? Accounting Reporting Complexity and Bank Loans Contracting**](https://www.dropbox.com/scl/fi/8iqvvc5gyedicj7dwnydo/Is-Simpler-Always-Better.pdf?rlkey=bghsqkmhv0ttvw6ovoioerkvr&dl=0){:target="\_blank"} *(with S. Ma)*
-<br />
-
-- **Creditor Rights and Debt Structure in the Zone of Insolvency**
+{% include cv_papers.md papers=cv.research.working spacer=true %}
 
 ## Work In Progress
 
-- **The Impact of Data Processing and AI Adoption on Firms' Productivity and Financing** *(with A. Sanati)*
-
-- **Differences in Differences with Spillovers** *(with W. Grieser, J. LeSage, and M. Zekhnini)*
+{% include cv_papers.md papers=cv.research.work_in_progress %}
 
 
 

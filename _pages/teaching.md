@@ -4,16 +4,22 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+{% assign cv = site.data.cv %}
 
-## American University, Kogod School of Business
+{% for school in cv.teaching %}
+## {{ school.school }}
 
+{% if school.courses %}
 **Courses**
-- Business Finance (Student evaluation: 4.9/5)
-- Quantitative Methods in Finance (Student evaluation: 4.95/5)
+{% for course in school.courses %}
+- {{ course.name }}{% if course.evaluation %} (Student evaluation: {{ course.evaluation }}){% endif %}
+{% endfor %}
+{% endif %}
 
+{% if school.awards %}
 **Teaching Awards**
-- *Graduate Professor of the Year: 2025*
-- *Outstanding Teaching Award: 2017, 2018, 2019, 2021, 2023, 2024*
-
-## Rice University, Jones School of Business
-- Financial Management (Student evaluation: 4.95/5)
+{% for award in school.awards %}
+- *{{ award }}*
+{% endfor %}
+{% endif %}
+{% endfor %}
