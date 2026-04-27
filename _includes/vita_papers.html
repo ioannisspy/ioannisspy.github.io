@@ -1,0 +1,15 @@
+{% if include.title %}<h2>{{ include.title }}</h2>{% endif %}
+<ul class="paper-list">
+{% for paper in include.papers %}
+  <li>
+    {% if paper.url %}<a href="{{ paper.url }}" target="_blank" rel="noopener"><strong>{{ paper.title }}</strong></a>{% else %}<strong>{{ paper.title }}</strong>{% endif %}{% if paper.authors %} (with {{ paper.authors }}){% endif %}
+    {% if paper.notes %}
+      <ul>
+      {% for note in paper.notes %}
+        <li><em>{{ note }}</em></li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>

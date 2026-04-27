@@ -108,7 +108,7 @@ tex = <<~TEX
 
 \\pagestyle{fancy}
 \\renewcommand{\\headrulewidth}{0pt}
-\\cfoot{\\vspace*{0.5cm} (Updated: \\mydate\\today)}
+\\cfoot{}
 \\rhead{\\emph{}}
 
 \\setlength{\\parskip}{1.1ex}
@@ -248,7 +248,7 @@ unless ARGV.include?("--no-pdf")
   end
 
   if compiled
-    FileUtils.rm_f(Dir[File.join(FILES_DIR, "main_CV.{aux,log,out,fls,fdb_latexmk}")])
+    FileUtils.rm_f(Dir[File.join(FILES_DIR, "main_CV.{aux,log,out,fls,fdb_latexmk,synctex.gz}")])
     puts "Wrote #{File.join(FILES_DIR, "main_CV.pdf")}"
   end
 end

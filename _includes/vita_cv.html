@@ -1,0 +1,49 @@
+<h2>CV</h2>
+<p><a href="{{ include.cv.profile.pdf | relative_url }}" target="_blank" rel="noopener">Link to CV (PDF)</a></p>
+
+<div class="vita-header">
+  <h2>{{ include.cv.profile.name }}</h2>
+  <a href="mailto:{{ include.cv.profile.email }}">{{ include.cv.profile.email }}</a><br>
+  <a href="{{ include.cv.profile.website }}">{{ include.cv.profile.website }}</a><br>
+  {{ include.cv.profile.address }}<br>
+  {{ include.cv.profile.phone }}
+</div>
+
+<h2>Academic Employment</h2>
+<ul class="vita-date-list">
+{% for item in include.cv.employment %}
+  <li><span>{{ item.title }}</span><span class="vita-date">{{ item.dates }}</span></li>
+{% endfor %}
+</ul>
+
+<h2>Education</h2>
+<ul class="vita-date-list">
+{% for item in include.cv.education %}
+  <li><span>{{ item.degree }}</span><span class="vita-date">{{ item.dates }}</span></li>
+{% endfor %}
+</ul>
+
+{% include vita_papers.html title="Published Research" papers=include.cv.research.published %}
+{% include vita_papers.html title="Working Papers" papers=include.cv.research.working %}
+{% include vita_papers.html title="Work In Progress" papers=include.cv.research.work_in_progress %}
+
+<h2>Teaching</h2>
+{% include vita_teaching.html schools=include.cv.teaching %}
+
+<h2>Professional Activities</h2>
+<p><strong>{{ include.cv.professional_activities.conference_heading }}</strong></p>
+<ul>
+{% for conference in include.cv.professional_activities.conferences %}
+  <li><strong>{{ conference.year }}:</strong> {{ conference.items }}</li>
+{% endfor %}
+</ul>
+
+<p><strong>{{ include.cv.professional_activities.referee_heading }}:</strong></p>
+<p>{{ include.cv.professional_activities.referees }}</p>
+
+<h2>Scholarships, Honors, and Awards</h2>
+<ul class="vita-date-list">
+{% for award in include.cv.awards %}
+  <li><span>{{ award.title }}</span><span class="vita-date">{{ award.dates }}</span></li>
+{% endfor %}
+</ul>

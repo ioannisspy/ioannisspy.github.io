@@ -38,7 +38,7 @@
   margin-top: 0;
   line-height: 1;
 
-  & + .page__meta {
+  &+.page__meta {
     margin-top: -0.5em;
   }
 }
@@ -55,7 +55,9 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
+  p,
+  li,
+  dl {
     font-size: 1em;
   }
 
@@ -64,8 +66,8 @@
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
-    @if $paragraph-indent == true {
-      & + p {
+    @if $paragraph-indent ==true {
+      &+p {
         text-indent: $indent-var;
         margin-top: -($indent-var);
       }
@@ -100,8 +102,75 @@
     font-size: $type-size-6;
   }
 
+  .vita-page {
+    font-size: 0.9em;
+
+    h2 {
+      margin-top: 1.25em;
+      margin-bottom: 0.5em;
+      padding-bottom: 0.25em;
+    }
+
+    .vita-header {
+      margin-bottom: 1em;
+      text-align: center;
+
+      h2 {
+        margin-bottom: 0.3em;
+        border-bottom: 0;
+      }
+    }
+
+    .vita-section {
+      margin-bottom: 0.9em;
+    }
+
+    .vita-subheading {
+      margin-bottom: 0.2em;
+    }
+
+    ul,
+    ol {
+      margin-top: 0.25em;
+      margin-bottom: 0.75em;
+    }
+
+    li {
+      margin-bottom: 0.25em;
+    }
+
+    li>ul,
+    li>ol {
+      margin-top: 0.2em;
+      margin-bottom: 0.35em;
+    }
+
+    li li {
+      margin-bottom: 0.15em;
+    }
+
+    .paper-list>li {
+      margin-bottom: 0.85em;
+    }
+
+    .paper-list ul {
+      margin-top: 0.3em;
+      margin-bottom: 0;
+    }
+
+    .vita-date-list {
+      list-style-position: outside;
+
+      .vita-date {
+        float: right;
+        margin-left: 1em;
+        white-space: nowrap;
+      }
+    }
+  }
+
   /* blockquote citations */
-  blockquote + .small {
+  blockquote+.small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
@@ -300,6 +369,7 @@
   transition: $global-transition;
 
   &.disabled {
+
     input,
     button,
     textarea,

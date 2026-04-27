@@ -1,0 +1,23 @@
+{% for school in include.schools %}
+<section class="vita-section">
+  <h2>{{ school.school }}</h2>
+
+  {% if school.courses %}
+  <p class="vita-subheading"><strong>Courses</strong></p>
+  <ul>
+    {% for course in school.courses %}
+    <li>{{ course.name }}{% if course.evaluation %} (Student evaluation: {{ course.evaluation }}){% endif %}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if school.awards %}
+  <p class="vita-subheading"><strong>Teaching Awards</strong></p>
+  <ul>
+    {% for award in school.awards %}
+    <li><em>{{ award }}</em></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</section>
+{% endfor %}

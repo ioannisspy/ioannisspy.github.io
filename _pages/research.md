@@ -6,17 +6,12 @@ author_profile: true
 ---
 {% assign cv = site.data.cv %}
 
-## Published Papers
+<div class="vita-page">
+{% include vita_papers.html title="Published Papers" papers=cv.research.published %}
+{% include vita_papers.html title="Working Papers" papers=cv.research.working %}
+{% include vita_papers.html title="Work In Progress" papers=cv.research.work_in_progress %}
 
-{% include cv_papers.md papers=cv.research.published spacer=true %}
-
-## Working papers
-
-{% include cv_papers.md papers=cv.research.working spacer=true %}
-
-## Work In Progress
-
-{% include cv_papers.md papers=cv.research.work_in_progress %}
+</div>
 
 
 
