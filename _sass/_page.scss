@@ -161,17 +161,15 @@
     .vita-date-list {
       list-style-position: outside;
 
-      .vita-date-row {
-        display: flex;
-        gap: 1em;
-        justify-content: space-between;
-      }
-
       .vita-date {
-        flex: 0 0 auto;
-        margin-left: auto;
         white-space: nowrap;
       }
+    }
+
+    .vita-date {
+      color: mix(#000, $text-color, 45%);
+      font-size: 0.95em;
+      white-space: nowrap;
     }
   }
 

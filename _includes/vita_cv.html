@@ -12,16 +12,14 @@
 <h2>Academic Employment</h2>
 <ul class="vita-date-list">
   {% for item in include.cv.employment %}
-  <li><span class="vita-date-row"><span>{{ item.title }}</span> <span class="vita-date">{{ item.dates }}</span></span>
-  </li>
+  <li>{{ item.title }} <span class="vita-date">({{ item.dates }})</span></li>
   {% endfor %}
 </ul>
 
 <h2>Education</h2>
 <ul class="vita-date-list">
   {% for item in include.cv.education %}
-  <li><span class="vita-date-row"><span>{{ item.degree }}</span> <span class="vita-date">{{ item.dates }}</span></span>
-  </li>
+  <li>{{ item.degree }} <span class="vita-date">({{ item.dates }})</span></li>
   {% endfor %}
 </ul>
 
@@ -46,7 +44,6 @@
 <h2>Scholarships, Honors, and Awards</h2>
 <ul class="vita-date-list">
   {% for award in include.cv.awards %}
-  <li><span class="vita-date-row"><span>{{ award.title }}</span> <span class="vita-date">{{ award.dates }}</span></span>
-  </li>
+  <li>{{ award.title }} <span class="vita-date">({{ award.dates }})</span></li>
   {% endfor %}
 </ul>
