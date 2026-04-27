@@ -5,6 +5,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "My Apps"
+    url: /apps/
            
   - title: "CV"
     url: /cv/
