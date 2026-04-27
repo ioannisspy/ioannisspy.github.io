@@ -11,16 +11,18 @@
 
 <h2>Academic Employment</h2>
 <ul class="vita-date-list">
-{% for item in include.cv.employment %}
-  <li><span>{{ item.title }}</span><span class="vita-date">{{ item.dates }}</span></li>
-{% endfor %}
+  {% for item in include.cv.employment %}
+  <li><span class="vita-date-row"><span>{{ item.title }}</span> <span class="vita-date">{{ item.dates }}</span></span>
+  </li>
+  {% endfor %}
 </ul>
 
 <h2>Education</h2>
 <ul class="vita-date-list">
-{% for item in include.cv.education %}
-  <li><span>{{ item.degree }}</span><span class="vita-date">{{ item.dates }}</span></li>
-{% endfor %}
+  {% for item in include.cv.education %}
+  <li><span class="vita-date-row"><span>{{ item.degree }}</span> <span class="vita-date">{{ item.dates }}</span></span>
+  </li>
+  {% endfor %}
 </ul>
 
 {% include vita_papers.html title="Published Research" papers=include.cv.research.published %}
@@ -33,9 +35,9 @@
 <h2>Professional Activities</h2>
 <p><strong>{{ include.cv.professional_activities.conference_heading }}</strong></p>
 <ul>
-{% for conference in include.cv.professional_activities.conferences %}
+  {% for conference in include.cv.professional_activities.conferences %}
   <li><strong>{{ conference.year }}:</strong> {{ conference.items }}</li>
-{% endfor %}
+  {% endfor %}
 </ul>
 
 <p><strong>{{ include.cv.professional_activities.referee_heading }}:</strong></p>
@@ -43,7 +45,8 @@
 
 <h2>Scholarships, Honors, and Awards</h2>
 <ul class="vita-date-list">
-{% for award in include.cv.awards %}
-  <li><span>{{ award.title }}</span><span class="vita-date">{{ award.dates }}</span></li>
-{% endfor %}
+  {% for award in include.cv.awards %}
+  <li><span class="vita-date-row"><span>{{ award.title }}</span> <span class="vita-date">{{ award.dates }}</span></span>
+  </li>
+  {% endfor %}
 </ul>

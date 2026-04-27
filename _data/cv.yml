@@ -72,13 +72,13 @@ research:
     - title: Does Banking Consolidation Harm Households?
       url: https://papers.ssrn.com/abstract=6556342
       authors: C. Brunetti and J. Harris
-    - title: AI-Augmented Strategic Asset Allocation Using Macro-Financial Narratives
-      authors: A. Sanati
     - title: Is Simpler Always Better? Accounting Reporting Complexity and Bank Loans Contracting
       url: https://www.dropbox.com/scl/fi/8iqvvc5gyedicj7dwnydo/Is-Simpler-Always-Better.pdf?rlkey=bghsqkmhv0ttvw6ovoioerkvr&dl=0
       authors: S. (Mark) Ma
     - title: Creditor Rights and Debt Structure in the Zone of Insolvency
   work_in_progress:
+    - title: AI-Augmented Strategic Asset Allocation Using Macro-Financial Narratives
+      authors: A. Sanati
     - title: The Impact of Data Processing and AI Adoption on Firms' Productivity and Financing
       authors: A. Sanati
     - title: Differences in Differences with Spillovers
