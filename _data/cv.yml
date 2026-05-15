@@ -7,10 +7,12 @@ profile:
   pdf: /files/main_CV.pdf
 
 employment:
+  - title: Associate Professor of Finance - American University, Kogod School of Business
+    dates: 2025 - today
   - title: Visiting Research Scholar - Federal Reserve Board
     dates: 2022 - today
   - title: Assistant Professor of Finance - American University, Kogod School of Business
-    dates: 2017 - today
+    dates: 2017 - 2025
 
 education:
   - degree: Ph.D. in Finance, Rice University - Jones School of Business
