@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ioannis Spyridopoulos"
 title_separator          : "-"
 name                     : &name "Ioannis Spyridopoulos"
-description              : &description "Assistant Professor Department of Finance and Real Estate"
+description              : &description "Associate Professor Department of Finance and Real Estate"
 url                      : https://ioannisspy.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ioannisspy.github.io"
@@ -57,7 +57,7 @@ analytics:
 author:
   name             : "Ioannis Spyridopoulos"
   avatar           : "https://ioannisspy.github.io/images/profile2.png"
-  bio              : "Assistant Professor of Finance"
+  bio              : "Associate Professor of Finance"
   location         : "American University"
   employer         : "Kogod School of Business"
   pubmed           : 
