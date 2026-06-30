@@ -74,18 +74,18 @@ $darker-gray : mix(#000, $gray, 60%);
 $light-gray : mix(#fff, $gray, 50%);
 $lighter-gray : mix(#fff, $gray, 90%);
 
-$body-color : #fff;
-$background-color : #fff;
-$code-background-color : #fafafa;
+$body-color : #f7f6f3;
+$background-color : #f7f6f3;
+$code-background-color : #f3f2ef;
 $code-background-color-dark : $light-gray;
-$text-color : $dark-gray;
-$border-color : $lighter-gray;
+$text-color : #3f4348;
+$border-color : #e3e0da;
 
-$primary-color : #7a8288;
+$primary-color : #6b7280;
 $success-color : #62c462;
 $warning-color : #f89406;
 $danger-color : #ee5f5b;
-$info-color : #52adc8;
+$info-color : #5a6672;
 
 /* brands */
 $behance-color : #1769FF;
@@ -167,7 +167,7 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius : 4px;
+$border-radius : 6px;
 $box-shadow : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width : 28px;
 $navicon-height : 4px;

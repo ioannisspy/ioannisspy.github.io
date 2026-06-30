@@ -1,0 +1,79 @@
+/* Site-specific visual refinements */
+
+body {
+  background-color: #f7f6f3;
+}
+
+.masthead {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(6px);
+  border-bottom-color: #e3e0da;
+}
+
+.masthead__menu-item--lg {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.greedy-nav a {
+  color: #4a5058;
+}
+
+.greedy-nav a:hover,
+.greedy-nav a:focus {
+  color: #2f3640;
+}
+
+.page__content {
+  background: #fff;
+  padding: 1.75em 2em;
+  border: 1px solid #ebe8e2;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+
+.page__content,
+.page__content p,
+.page__content li,
+.page__content dd,
+.vita-page {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.vita-page h2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  color: #3a4048;
+}
+
+.page__content h2,
+.vita-page h2 {
+  border-bottom-color: #e8e5df;
+}
+
+.page__content a,
+.vita-page a {
+  color: #4f5d6b;
+}
+
+.page__content a:hover,
+.vita-page a:hover {
+  color: #2f3a45;
+}
+
+.sidebar .author__name {
+  font-weight: 600;
+  color: #3a4048;
+}
+
+.author__urls a {
+  color: #5a626c;
+}
+
+.page__footer {
+  background: transparent;
+}
