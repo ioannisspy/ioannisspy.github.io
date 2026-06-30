@@ -1,11 +1,29 @@
 /* --------------------------------------------------------------------------
-   Global: softer canvas, no blocky content cards
+   Typography
    -------------------------------------------------------------------------- */
 
+:root {
+  --font-serif: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --font-sans: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --text-soft: #4a4f56;
+  --text-muted: #6d737b;
+  --heading-soft: #3d434b;
+}
+
 body {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  line-height: 1.6;
+  letter-spacing: 0.01em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(165deg, #faf9f7 0%, #f3f1ec 48%, #f7f6f3 100%);
   background-attachment: fixed;
 }
+
+/* --------------------------------------------------------------------------
+   Global: softer canvas, no blocky content cards
+   -------------------------------------------------------------------------- */
 
 .masthead {
   background: transparent;
@@ -14,12 +32,13 @@ body {
 }
 
 .masthead__menu-item--lg {
-  font-weight: 600;
-  letter-spacing: 0.01em;
+  font-weight: 500;
+  letter-spacing: 0.02em;
 }
 
 .greedy-nav a {
-  color: #4a5058;
+  color: #565d66;
+  font-weight: 400;
 }
 
 .greedy-nav a:hover,
@@ -40,8 +59,13 @@ body {
 .page__content p,
 .page__content li,
 .page__content dd,
-.vita-page {
-  font-family: Georgia, "Times New Roman", Times, serif;
+.vita-page,
+.archive {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  line-height: 1.72;
+  letter-spacing: 0.012em;
+  color: var(--text-soft);
 }
 
 .page__content h1,
@@ -50,9 +74,10 @@ body {
 .page__content h4,
 .vita-page h2,
 .archive h1 {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-weight: 600;
-  color: #3a4048;
+  font-family: var(--font-sans);
+  font-weight: 500;
+  letter-spacing: 0.015em;
+  color: var(--heading-soft);
 }
 
 .page__content h2,
@@ -80,8 +105,17 @@ body {
 
 /* Sidebar: lighter presence on inner pages */
 .sidebar .author__name {
-  font-weight: 600;
-  color: #3a4048;
+  font-family: var(--font-sans);
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  color: var(--heading-soft);
+}
+
+.sidebar p,
+.sidebar li,
+.author__urls a {
+  font-family: var(--font-sans);
+  font-weight: 400;
 }
 
 .author__avatar img {
@@ -163,9 +197,12 @@ body {
 .home-body {
   grid-column: 2;
   grid-row: 2;
+  font-family: var(--font-serif);
   font-size: 1.02rem;
-  line-height: 1.68;
-  color: #3f4348;
+  font-weight: 400;
+  line-height: 1.74;
+  letter-spacing: 0.012em;
+  color: var(--text-soft);
 }
 
 .home-profile__photo {
@@ -183,25 +220,28 @@ body {
 
 .home-profile__name {
   margin: 0 0 0.2em;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--font-sans);
   font-size: clamp(1.65rem, 3vw, 2rem);
-  font-weight: 600;
-  letter-spacing: -0.02em;
-  line-height: 1.15;
-  color: #2f3640;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+  color: var(--heading-soft);
 }
 
 .home-profile__role {
   margin: 0 0 0.35em;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: var(--font-serif);
   font-size: 1rem;
-  color: #5c636c;
+  font-weight: 400;
+  color: var(--text-muted);
 }
 
 .home-profile__affiliation {
   margin: 0 0 0.85em;
+  font-family: var(--font-sans);
   font-size: 0.92rem;
-  color: #6d737b;
+  font-weight: 400;
+  color: var(--text-muted);
 }
 
 .home-profile__sep {
@@ -212,8 +252,9 @@ body {
   display: flex;
   flex-wrap: wrap;
   gap: 0.55rem 1rem;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--font-sans);
   font-size: 0.88rem;
+  font-weight: 400;
 }
 
 .home-profile__links a {
@@ -235,9 +276,11 @@ body {
   margin-top: 1.25rem;
   padding-top: 1rem;
   border-top: 1px solid rgba(62, 66, 72, 0.1);
+  font-family: var(--font-sans);
   font-size: 0.88rem;
-  line-height: 1.55;
-  color: #6d737b;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--text-muted);
 }
 
 .home-contact p {
