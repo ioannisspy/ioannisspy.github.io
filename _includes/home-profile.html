@@ -1,0 +1,43 @@
+{% include base_path %}
+{% assign author = site.author %}
+{% assign profile = site.data.cv.profile %}
+
+<div class="home-profile">
+  <div class="home-profile__media">
+    {% if author.avatar contains "://" %}
+      <img src="{{ author.avatar }}" alt="{{ author.name }}" class="home-profile__photo" itemprop="image">
+    {% else %}
+      <img src="{{ '/images/' | append: author.avatar | prepend: base_path }}" alt="{{ author.name }}" class="home-profile__photo" itemprop="image">
+    {% endif %}
+  </div>
+
+  <div class="home-profile__identity">
+    <h1 class="home-profile__name" itemprop="name">{{ author.name }}</h1>
+    {% if author.bio %}<p class="home-profile__role" itemprop="jobTitle">{{ author.bio }}</p>{% endif %}
+    {% if author.employer or author.location %}
+      <p class="home-profile__affiliation">
+        {% if author.employer %}<span itemprop="worksFor">{{ author.employer }}</span>{% endif %}
+        {% if author.employer and author.location %}<span class="home-profile__sep">·</span>{% endif %}
+        {% if author.location %}<span itemprop="address">{{ author.location }}</span>{% endif %}
+      </p>
+    {% endif %}
+
+    <nav class="home-profile__links" aria-label="Profiles and contact">
+      {% if author.googlescholar %}
+        <a href="{{ author.googlescholar }}" itemprop="sameAs">Google Scholar</a>
+      {% endif %}
+      {% if author.researchgate %}
+        <a href="{{ author.researchgate }}" itemprop="sameAs">SSRN</a>
+      {% endif %}
+      {% if author.linkedin %}
+        <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">LinkedIn</a>
+      {% endif %}
+      {% if author.twitter %}
+        <a href="https://twitter.com/{{ author.twitter | remove: '@' }}" itemprop="sameAs">Twitter</a>
+      {% endif %}
+      {% if profile.email %}
+        <a href="mailto:{{ profile.email }}">Email</a>
+      {% endif %}
+    </nav>
+  </div>
+</div>

@@ -1,32 +1,39 @@
 ---
 permalink: /
+layout: home
 title: ""
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Welcome!
+<div class="home">
 
+<div class="home-hero">
+{% include home-profile.html %}
+
+<div class="home-body">
 
 I am an Associate Professor of Finance at the Kogod School of Business. My research focuses on how access to capital markets affects firms and households. I love playing devil's advocate, and finding simple ways to explain complicated stuff.
-If you want to chat, feel free to contact me!   
-<!-- I love using data to evaluate questions that change or improve my priors and transforming scientific work into classroom practice.  -->
 
-<br />
+If you want to chat, feel free to contact me!
 
-<div style="text-align: center; margin: 1.5em 0;">
-  <img src="/images/pireas_mini_soccer.png" alt="Mini soccer in Piraeus" style="max-width: 80%; border-radius: 6px; display: block; margin: 0 auto;" />
+<div class="home-contact">
+  <p>
+    4400 Massachusetts Ave NW<br>
+    Washington, DC 20016<br>
+    Office: 3201 New Mexico (Office # 329)<br>
+    <a href="mailto:ispyrido@american.edu">ispyrido@american.edu</a>
+  </p>
 </div>
 
-<br />
+</div>
+</div>
 
-### Contact
-<span style="font-size:0.8em;"> 
-  4400 Massachusetts Ave NW, <br />
-  Washington, DC 20016 <br />
-  Office: 3201 New Mexico (Office \# 329) <br />
-  Email: ispyrido(at)american.edu 
-</span>
+<figure class="home-feature">
+  <img src="/images/pireas_mini_soccer.png" alt="Mini soccer in Piraeus">
+</figure>
+
+</div>

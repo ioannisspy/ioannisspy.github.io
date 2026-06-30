@@ -1,13 +1,16 @@
-/* Site-specific visual refinements */
+/* --------------------------------------------------------------------------
+   Global: softer canvas, no blocky content cards
+   -------------------------------------------------------------------------- */
 
 body {
-  background-color: #f7f6f3;
+  background: linear-gradient(165deg, #faf9f7 0%, #f3f1ec 48%, #f7f6f3 100%);
+  background-attachment: fixed;
 }
 
 .masthead {
-  background: rgba(255, 255, 255, 0.85);
-  backdrop-filter: blur(6px);
-  border-bottom-color: #e3e0da;
+  background: transparent;
+  border-bottom: none;
+  backdrop-filter: none;
 }
 
 .masthead__menu-item--lg {
@@ -24,12 +27,13 @@ body {
   color: #2f3640;
 }
 
-.page__content {
-  background: #fff;
-  padding: 1.75em 2em;
-  border: 1px solid #ebe8e2;
-  border-radius: 8px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+.page__content,
+.archive,
+.vita-page {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 0.75em 0 1.5em;
 }
 
 .page__content,
@@ -44,7 +48,8 @@ body {
 .page__content h2,
 .page__content h3,
 .page__content h4,
-.vita-page h2 {
+.vita-page h2,
+.archive h1 {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-weight: 600;
   color: #3a4048;
@@ -52,28 +57,239 @@ body {
 
 .page__content h2,
 .vita-page h2 {
-  border-bottom-color: #e8e5df;
+  border-bottom: 1px solid rgba(62, 66, 72, 0.12);
+  padding-bottom: 0.35em;
 }
 
 .page__content a,
-.vita-page a {
+.vita-page a,
+.archive a {
   color: #4f5d6b;
+  text-decoration-color: rgba(79, 93, 107, 0.35);
 }
 
 .page__content a:hover,
-.vita-page a:hover {
+.vita-page a:hover,
+.archive a:hover {
   color: #2f3a45;
 }
 
+.page__footer {
+  background: transparent;
+}
+
+/* Sidebar: lighter presence on inner pages */
 .sidebar .author__name {
   font-weight: 600;
   color: #3a4048;
+}
+
+.author__avatar img {
+  border: none !important;
+  box-shadow: none !important;
+  border-radius: 4px;
 }
 
 .author__urls a {
   color: #5a626c;
 }
 
-.page__footer {
-  background: transparent;
+/* --------------------------------------------------------------------------
+   Home page: integrated profile + narrative
+   -------------------------------------------------------------------------- */
+
+.home-main {
+  max-width: 46rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 1.25rem;
+}
+
+.page--home {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  float: none !important;
+}
+
+.page__content--home {
+  padding: 0;
+}
+
+.home {
+  padding: 0.5rem 0 2rem;
+}
+
+.home-hero {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(128px, 168px) minmax(0, 1fr);
+  gap: 1.75rem 2.25rem;
+  align-items: start;
+  padding: 1.75rem 0 1.25rem;
+}
+
+.home-hero::before {
+  content: "";
+  position: absolute;
+  inset: -1.5rem -1.25rem 0;
+  background:
+    radial-gradient(ellipse 70% 55% at 18% 28%, rgba(214, 208, 196, 0.28), transparent 72%),
+    radial-gradient(ellipse 55% 45% at 88% 18%, rgba(198, 206, 214, 0.16), transparent 70%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.home-profile,
+.home-body {
+  position: relative;
+  z-index: 1;
+}
+
+.home-profile {
+  display: contents;
+}
+
+.home-profile__media {
+  grid-column: 1;
+  grid-row: 1 / span 2;
+}
+
+.home-profile__identity {
+  grid-column: 2;
+  grid-row: 1;
+}
+
+.home-body {
+  grid-column: 2;
+  grid-row: 2;
+  font-size: 1.02rem;
+  line-height: 1.68;
+  color: #3f4348;
+}
+
+.home-profile__photo {
+  display: block;
+  width: 100%;
+  max-width: 168px;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center 12%;
+  border-radius: 3px;
+  filter: saturate(0.96) contrast(0.98);
+  -webkit-mask-image: linear-gradient(to bottom, #000 88%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #000 88%, transparent 100%);
+}
+
+.home-profile__name {
+  margin: 0 0 0.2em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: clamp(1.65rem, 3vw, 2rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  color: #2f3640;
+}
+
+.home-profile__role {
+  margin: 0 0 0.35em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1rem;
+  color: #5c636c;
+}
+
+.home-profile__affiliation {
+  margin: 0 0 0.85em;
+  font-size: 0.92rem;
+  color: #6d737b;
+}
+
+.home-profile__sep {
+  margin: 0 0.35em;
+}
+
+.home-profile__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.88rem;
+}
+
+.home-profile__links a {
+  color: #4f5d6b;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(79, 93, 107, 0.22);
+}
+
+.home-profile__links a:hover {
+  color: #2f3a45;
+  border-bottom-color: rgba(47, 58, 69, 0.45);
+}
+
+.home-body p {
+  margin: 0 0 1em;
+}
+
+.home-contact {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(62, 66, 72, 0.1);
+  font-size: 0.88rem;
+  line-height: 1.55;
+  color: #6d737b;
+}
+
+.home-contact p {
+  margin: 0;
+}
+
+.home-contact a {
+  color: inherit;
+  text-decoration-color: rgba(109, 115, 123, 0.45);
+}
+
+.home-feature {
+  margin: 2.25rem auto 0;
+  max-width: 34rem;
+  text-align: center;
+}
+
+.home-feature img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  border-radius: 3px;
+  opacity: 0.94;
+  filter: saturate(0.92);
+  -webkit-mask-image: linear-gradient(to bottom, #000 90%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #000 90%, transparent 100%);
+}
+
+@media (max-width: 700px) {
+  .home-hero {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    text-align: center;
+  }
+
+  .home-profile__media,
+  .home-profile__identity,
+  .home-body {
+    grid-column: 1;
+    grid-row: auto;
+  }
+
+  .home-profile__photo {
+    margin: 0 auto;
+  }
+
+  .home-profile__links {
+    justify-content: center;
+  }
+
+  .home-body {
+    text-align: left;
+  }
 }
