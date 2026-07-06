@@ -14,7 +14,7 @@ redirect_from:
 <div class="home-hero">
 {% include home-profile.html %}
 
-<div class="home-body">
+<div class="home-body" markdown="1">
 
 I am an Associate Professor of Finance at the Kogod School of Business. My research focuses on how access to capital markets affects firms and households. I love playing devil's advocate, and finding simple ways to explain complicated stuff.
 
