@@ -157,7 +157,7 @@ body {
 .home-hero {
   position: relative;
   display: grid;
-  grid-template-columns: minmax(128px, 168px) minmax(0, 1fr);
+  grid-template-columns: minmax(85px, 112px) minmax(0, 1fr);
   gap: 1.75rem 2.25rem;
   align-items: start;
   padding: 1.75rem 0 1.25rem;
@@ -208,7 +208,7 @@ body {
 .home-profile__photo {
   display: block;
   width: 100%;
-  max-width: 168px;
+  max-width: 112px;
   aspect-ratio: 4 / 5;
   object-fit: cover;
   object-position: center 12%;
