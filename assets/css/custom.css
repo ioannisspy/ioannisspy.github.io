@@ -334,3 +334,24 @@ body {
     text-align: left;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Deter casual image downloading
+   NOTE: images displayed in a browser are always sent to the client, so this
+   cannot truly prevent saving (screenshots, devtools, and the network tab all
+   remain). It only blocks the easy paths: drag-out, right-click "Save image
+   as", and mobile long-press "Save image".
+   -------------------------------------------------------------------------- */
+
+img {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  user-drag: none;
+  -webkit-touch-callout: none;
+}
