@@ -207,7 +207,7 @@ body {
 .home-profile__photo {
   display: block;
   width: 100%;
-  max-width: 92px;
+  max-width: 116px;
   aspect-ratio: 4 / 5;
   object-fit: cover;
   object-position: center 12%;
